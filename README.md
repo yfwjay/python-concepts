@@ -16,10 +16,11 @@ Each folder contains:
 
 ## 🗂️ Folder Structure
 
-├── week1/ → Python basics (variables, data types, control flow)
-├── week2/ → Functions, lists, and tuples
-├── week3/ → Object-Oriented Programming (OOP)
-└── README.md
+- week1/ → Python basics (variables, data types, control flow)
+- week2/ → Functions, lists, and tuples
+- week3/ → Object-Oriented Programming (OOP)
+- README.md → Main documentation file
+
 
 
 Each week has its own branch (e.g. `week_one`, `week_two`, etc.) for version control and tracking progress.
@@ -55,7 +56,7 @@ Here’s an overview of what I’ll be covering:
 ## 🚀 How to Run
 Clone this repository:
 ```bash
-git clone https://github.com/yfwjay/python-concepts.git
+git clone https://github.com/username/python-concepts.git
 cd python-concepts
 
 Then navigate to any week’s folder and run a script:
