@@ -1,0 +1,43 @@
+VARIABLES AND DATA TYPES
+
+-> A Variable is a name that represents/ refers to a value stored in memory
+ 
+HOW TO DECLARE VARIABLES
+
+variable_name = Value   FOR EXAMPLE:  name = 'James' age = 10 age_string = '12'
+
+DATATYPES
+This tells us which type our value is . For example:
+
+-> integer  Represents a number.
+-> string   Represents a word like a name in quotation.
+-> float    An integer with a decimal point.
+
+Type-Casting
+
+This is what we call type conversion convert from one datatype to another.
+
+Example: age = 10
+         age_float = float(age)
+
+Printing DATATYPES
+
+We use the the function type()  . 
+
+Example:
+
+        age = 20 
+        print(type(age))
+
+INPUT FROM PROGRAMMER
+
+To allow one to enter their own inputs we use the keyword input()
+
+NOTE BETTER
+
+We seperate strings from variables during printing using commas
+
+Practice
+-> Create 2 python scripts
+-> One for what i learnt
+-> The other for practice like an assignment
