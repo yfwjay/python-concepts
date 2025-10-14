@@ -1,0 +1,11 @@
+PYTHON PROGRAMMING LANGUANGE
+
+-> Python is one of the easiest languanges to learn , write and read.
+-> Used in every tech field from Webdev, Datascience , AI , Cyber sec etc.
+-> It is Versatile(Used in multiple tech fields)
+-> High in demand due to its vertasility.
+
+Writing Ist Python program.
+ -> Create a file hello.py
+ -> Write a print statement print("Hello World!")
+ -> Open terminal and run the command using the command : python hello.py
