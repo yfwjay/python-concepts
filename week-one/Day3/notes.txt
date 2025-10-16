@@ -1,0 +1,27 @@
+INDEXING AND SLICING STRINGS IN PYTHON
+
+HOW IT WORKS
+Indexing starts from 0.
+Example: print("Hello) H is in index 0 , e = 1 , l = 2 and so on.
+
+The word hello starts from index o to index 4.
+
+How do we incorporate Indexing
+
+We use Square brackets []
+Example: greetings = 'Hello'   print(greetings[0])  
+
+When we run the python script the output should be g as g is in index 0.
+
+
+SLICING
+
+In slicing we have to specify both the starting index and ending index.
+
+We use same example:  print(greetings[0:3])
+
+0: 3 means we want to print items in index 0 to 3 so the output will be gre.
+
+NB print(greetings[-1]) we are printing the last element inside our variable greetings.
+
+Spaces are also accounted as part of the index see python script greetings.py
