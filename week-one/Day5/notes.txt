@@ -1,0 +1,21 @@
+STRING FORMATTING
+
+Earlier we learnt on concatenation. 
+In that area it was about adding strings together and for formatting we had to add commas after every string.
+
+This is tiresome especially when you have large strings.This is where string formatting comes around.
+
+In string formatting we will specifically deal with f-strings.
+
+F-strings
+In python f-strings makes it easier to format our strings.
+
+How we incorporate f-strings
+
+Assume we have 3 variables and inside the varibles we have repective values: name , age and occupation.
+
+when printing we apply f-strings as follows:
+
+print(f"My name is " {name} . I'm {age} years old and I'm a {occupation})
+
+See python script f-string.py in practicality.
