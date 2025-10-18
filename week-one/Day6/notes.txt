@@ -1,0 +1,11 @@
+MINI-PROJECT
+
+Today I'm going to be doing a mini project of what i have learnt in the last 5 days
+
+The project is about: REVERSING A STRING.
+
+STEPS.
+
+1.Allow the user to enter a string and store that string ina variable.
+2.Reverse that string using either slicing or loops
+3.Print the original string and the sliced strings.
