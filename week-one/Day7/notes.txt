@@ -1,0 +1,17 @@
+I'll be building a simp-le Calculator app which performs 4 operations.
+ 1.Addition
+ 2.Subtraction
+ 3.Division
+ 4.Multiplication
+
+STEPS TO ACTUALIZE OUR PROJECT.
+
+1. Allow the user to input 2 numbers.
+2. By default input method returns a string so we have to convert our input statement to a float.
+3. Output to the user the next procedure. You can display to the user the set of operatons it does by telling the user to select what you operation you want to execute.
+4. Using the if statement perform our operations and you can add other preacutions such as when dividing a number by zero what to expect.
+
+NOTE BETTER
+
+As we haven't delt with control structures for some reason you may find it difficult to understand the flow but in the coming week control structures will be covered.
+
