@@ -3,7 +3,7 @@
  # DAY1
 Created a a python script for learning python
 
-**DAY2**
+# DAY2
 Learnt on Variables and Datatypes.
 Syntax for creating Variables and the various datatypes present.
 To check the datatype of a variable use method type()
