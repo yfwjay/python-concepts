@@ -1,0 +1,23 @@
+OPERATIONS AND EXPRESSIONS IN PYTHON
+
+An expression is any piece of code that returns a value.
+
+OPERATIONS
+I've learnt the different types of opearators we have.
+    a) Comparison opearators
+        They compare one variable from another and always return a boolean.Examples include: > , < , >= , <= , =
+    b) Logical opearators
+        They put some logic into our code. Examples of Logical operators:
+        Logical or , logical and and logical not opearator.
+    c) Assignment opearators
+        Update values of that varible. Example of Assignment operators.
+            += updates a value by a certain value and reassigns the value of the variable
+            -= updates a value by subtraction and reassigns the value of the variable.
+
+
+NOTE BETTER
+
+I also learnt the following new things.
+    a) modulus(%) = Returns the reminder after division
+    b) flow division(//) = Returns an integer despite even the division having decimal plaes/
+    c) power(**) = raises a certain value certain number of times.
