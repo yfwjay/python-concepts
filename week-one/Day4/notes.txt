@@ -1,0 +1,39 @@
+STRING OPERATORS AND METHODS
+
+In string Operators we will discuss about Concatenation and Repetition
+
+a)Concatenation
+Fancy word for adding. We add strings together. Example:
+
+greetings = 'Hello, How are you?"
+reply = 'Im good'
+
+to combine the two strings we use plus(+) sign
+
+example in usage print(greetings + " " + reply) the "" is for spacing. Python script in the folder Day 4 shows a practical example.
+
+b)Repetition
+There may come an instance where we would want to print a string multiple times.
+We use the * sign.
+
+Example: print(reply * 3) Print Im good 3 times.
+
+
+METHODS
+
+Common methods include
+
+1.upper() prints string in upper case
+2.lower() prints strings in lower case
+3.title() prints a title of a string
+4.strip() Removes spaces from a string
+5.replace() Repalce a word with another
+6.split() Seperates words from each other and saves them in a list.
+7.len() To check the length of our string and it starts from 1 
+
+SUBSTRINGS
+
+This is a piece of a string.
+
+print("Email" in greetings) Returns a boolean
+print("name" NOTIN greetings) Returns a boolean
