@@ -21,3 +21,4 @@ I also learnt the following new things.
     a) modulus(%) = Returns the reminder after division
     b) flow division(//) = Returns an integer despite even the division having decimal plaes/
     c) power(**) = raises a certain value certain number of times.
+    
