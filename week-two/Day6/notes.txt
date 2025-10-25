@@ -1,0 +1,11 @@
+Today I learnt about the following keywords which are used in loops:
+1.Break
+2.Continue
+
+1.Break
+Break keyword is used when we want o exit a loop when a certain condition has been met.
+
+2.Continue 
+Used when we want to skip a certain iteration.
+
+Python scripts shows the break and continue keywords in action.
