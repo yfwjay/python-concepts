@@ -37,7 +37,7 @@ Each week has its own branch (e.g. `week_one`, `week_two`, etc.) for version con
 ## 🧠 Topics Covered
 Here’s an overview of what I’ll be covering:
 - Week 1 → Variables , Datatypes , Indexing and Slicing , String methods and Operations , String formatting using f-strings , Calculator project
-- Week 2 →   
+- Week 2 → Operators and expressions , if-else control structure , for loops , while loop , break and continue statements , ticket booking and checking project and number guessing game project
 - Week 3 →   
 - Week 4 → 
 - Week 5 →  
