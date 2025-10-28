@@ -1,0 +1,13 @@
+Today I'll be building an number guessing game.
+
+So this mini project is to trya n impliment the lessons I've learnt this whole week.It includes use of iterations , break and continue statements.
+
+HOW IT WORKS
+1. We have 1st to import a module called random. This module randomly creates random numbers.
+2.We create a variable and pass the module and its method randint(). Inside the parameters we pass the range eg 1 to 10.
+3.Since we are gonna use a while loop we must include an intializer.
+4.We introduce the user to the game by what the game does.
+5.Since we don't want to exit the loop at any instance unless the condition is true we use the while true:
+6.We include our conditions here.
+
+The python script below includes the number guessing game.

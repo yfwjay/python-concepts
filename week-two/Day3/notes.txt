@@ -1,0 +1,15 @@
+MINI-PROJECT ON A MOVIE TICKET CHECKER
+
+Allow the user to enter their age.
+Checks the age of the user and if age is greater than 18 one can watch the movie , if less than 18 ur underage if ur equal to 18 can watch but carry iD for verification.
+
+
+ASSIGNMENT
+MINI-TICKET BOOKING SYDTEM.
+1.Ask the user for their age.
+2.Ask the user for the studentId(Yes or No)
+3.Ask for the time of the movie (24 hr format)
+4.The rules are:
+    if user is 18 or older can book the ticket.
+    if user is under 18 but has a studentId can only book before 6pm
+    if none of the above reject with a message.

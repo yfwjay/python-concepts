@@ -1,0 +1,11 @@
+Today I learnt about While loops as a type of loop
+
+Unlike for loops where it used when we know the definite number of times we want to iterate something a while loop solves this.
+
+A while loop can be used when we want to iterate sth for an infinite number of times.
+
+You shouldnt impliment this as its a never ending process and could cause you to reset ur machine due to hanging.
+
+So thats a disadvantageous trait of while loop.
+
+But below are python scripts of while loop in implimentation.

@@ -1,0 +1,13 @@
+DECISION MAKING IN PYTHON USING IF ELSE STATEMENT.
+
+IF-ELSE STATEMENT
+
+The syntax is
+if condition:
+    piece of code
+elseif: condition
+    piece of code
+else:
+    roll-back code
+
+See if_else python script for the executable code.

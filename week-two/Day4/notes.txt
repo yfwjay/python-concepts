@@ -1,0 +1,8 @@
+CONTROL STRUCTURES
+FOR LOOPS
+Today I learnt for loops and how to impliment them.
+We use for loops when implimenting repetition , iterate through lists.
+
+For loops are used when we know the number of times we want to iterate through something.
+
+See pytthon scripts below when For loop is in implimentation.
