@@ -1,0 +1,17 @@
+LAMBDA FUNCTIONS AND RETURN STATEMENTS
+
+1. LAMBDA FUNCTIONS
+
+This is a quick throw-away function with no name.
+We use it when we want to perform a certain operation quickly and then forget about it.
+
+2.RETURN STATEMENTS
+
+Here we check the use of return statements in a function and how it differenciates from a print statement.
+
+When we include a return statement in a function we store that value and we can reuse it
+
+Otherwise in a function when we use a print statement this means when that function is executed it cant be reused. 
+
+Python script return_statemnt.py will help undestand return statement AND
+Pythin script lambda_function.py will help understand use of lambda functions.
