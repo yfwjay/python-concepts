@@ -61,7 +61,7 @@ cd python-concepts
 
 Then navigate to any week’s folder and run a script:
 
-python week1/variables.py
+python week-one/variables.py
 
 ✍️ Author
 
