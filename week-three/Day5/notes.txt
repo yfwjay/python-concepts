@@ -1,0 +1,23 @@
+Today we will be building a CLI To-do list application
+
+CLI - Command Line Application.
+
+In this project we will try to impliment what we have been learning from:
+loops , functions , writing modular code , lists etc.
+
+But the main concept here is to understand how we impliment writing modular code.
+
+It was a lesson in the previous day where we talked about using utility functions when creating functions to impliment modularity.
+
+The folder below objectives contains three python scripts tryiing to impliment what we have have been learning
+
+
+ABOUT THE PROJECT.
+
+1. We want the user to be able to enter a task , be able to view that task  , complete that task as done ,  delete a task and lastly be able to exit the application when all is done.
+
+2.We will intriduce the user to the CLI Application thats the purpose of the python script menu.py.
+
+3.In the tasks.py we will define what each task shall be doing.
+
+4.Lastly in the main.py file thats where we define the functionality by calling our utility functions
