@@ -1,0 +1,15 @@
+HOW TO WRITE FUNCTIONS IN PYTHON FROM 1ST PRINCIPLES
+
+Function is a block of code that performs a specific task. 
+
+Function syntax
+
+def function_name(parameters):
+    block of code
+
+Function definition
+Its just the same as the syntax. Where we define our function by giving it the name its parameters and blocks of code to be executed.
+
+Function call
+
+Calling the function by its name and paramters.

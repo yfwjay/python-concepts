@@ -1,0 +1,11 @@
+CREATING A SIMPLE BMI CALCULATOR APP 
+
+1.All I need to know is the folmulae for calculating the BMI.
+
+Formulae is BMI = weight / height ** 2
+
+Divide weight by the square of height.
+
+But this time I'll be using a function and we pass in the paramteres weight and height.
+
+Earlier in the previous week we did a simple calculator project that adds 2 numbers but at that time we happened to use variables and then we use a decision structure the if-else statement.

@@ -1,0 +1,23 @@
+How to write clean and modular python code
+
+modular - Breaking a large program into small parts 
+It is advisable that we write code that is not sphagetti.
+
+So how do we do that.
+
+Thats where functions comes in. Functions allows us to write reusable , clean code.
+One function does a specific purpose and when we want to use it we call the function.
+
+To write a function for best practices we have to use return keyword for example inside the function.
+Using a retun keyword is a best practice when writing functions i=as it makes the function reusable since we store the value unlike when we use the print statement.
+
+
+Utility functions
+
+This are functions that you can reuse and you happen to call it in another file.
+
+We just use from file_name use function
+
+We tell our file that there is a certain function in a certain location retrieve it and lets use that method.
+
+See python script to understand the difference between modular and non-modular code.
