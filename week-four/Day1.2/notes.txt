@@ -1,0 +1,14 @@
+TODAY I LEARNT ABOUT LISTS
+
+Some of the things I learnt on Lists:
+1.list methods
+2.list indexing
+3.List slicing
+
+Key takeaway is :
+That items in a list are mutable and repeatable.
+Lists can take items of different data_types
+
+
+
+The python script below helps you undertand better about lists.

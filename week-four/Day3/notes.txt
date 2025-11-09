@@ -1,0 +1,22 @@
+TUPLES AND SETS IN PYTHON
+
+1.Tuples
+
+A tuple is a collection of ordered , immutable list of items.
+We use parenthesis() to define lists.
+
+A tuple is used as its faster than a list. Can also be used as a key in a dictionary.
+
+I learned how to access , slice and unpack a tuple.
+
+2.Sets
+
+A set is a collection of mutable , un-ordered and non-duplicate collection of items.
+We use curly braces{} to define a set.
+
+A set is used when we want to return non-duplicate values and also membership testing.
+
+Sets also supports sets theory like union , intersection , difference etc.
+
+NOTE BETTER
+SETS DO NOT SUPPORT INDEXING AND SLICING.
