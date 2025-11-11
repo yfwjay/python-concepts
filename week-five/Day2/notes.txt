@@ -1,0 +1,23 @@
+Error Handling(Try except) and Debugging in python
+
+Types of errors to expect in Python.
+    1.Syntax error
+    Arises when you dont follow the normal convection of writing python code. Eg : missing parenthesis in a print statement , missing quotes in strings etc.
+
+    2.Runtime error
+    Arises when you try running your code but it returns an error despite being correct in terms of Syntax. Eg: Dividing a number by 0.
+
+To avoid this types of errors will be using (try-except) to identify this errors.
+
+try clause: It contains the code that might contain the error.
+except clause: It contains the code that will be printed to the user in case of an error.
+
+DEBUGGING 
+This is the process of finding and fixing errors.
+
+We also talked about:
+1.Tracebacks
+2.Modularity
+3.Break Points
+
+See python scripts below to expalin the error handling and debugging.
