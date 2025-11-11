@@ -1,0 +1,6 @@
+READING AND WRITING FILES IN PYTHON.
+1. Text files.
+2. Csv files.
+3. JSON files.
+
+For each will try to read and write (.txt , .csv , .json)
