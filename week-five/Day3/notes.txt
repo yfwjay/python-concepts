@@ -1,0 +1,20 @@
+NOTE-TAKING APP
+Ill be building a note-taking app with the following features.
+1.Adding a note
+2.Viewing your notes
+3.Deleting a note
+4.Exiting the application
+
+
+Those are the basic functionlities. You can go ahead and extend your application with features such as: timestamp , searching for a particular note , editing a note etc
+
+Some of the things I'll be implimenting:
+
+1.Functions 
+2.Try and except handling
+3.reading and writing txt files 
+4.list methods
+5.decision structures such as for loops , while loop , if else conditions etc
+
+
+See the folder note_taking_app for how the project was implimented.
