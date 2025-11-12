@@ -52,6 +52,40 @@ def delete_note():
     except FileNotFoundError:
         print("No notes found")
 
+def edit_note():
+    try:
+        with open("your_notes.txt", "r") as file:
+            notes = file.readlines()
+
+        if not notes:
+            print("No notes to edit.")
+            return
+
+        # Show notes with numbering
+        print("==========YOUR NOTES========")
+        for indx, note in enumerate(notes, start=1):
+            print(f"{indx}. {note.strip()}")
+
+        choice = int(input("Enter the note number to edit = "))
+
+        if 0 < choice <= len(notes):
+            new_note = input("Enter the new note = ").strip()
+            notes[choice - 1] = new_note + "\n"  # replace the old note
+
+            with open("your_notes.txt", "w") as file:
+                file.writelines(notes)  # write the full updated list
+
+            print(f"Note #{choice} updated to: {new_note}")
+        else:
+            print("Invalid note number.")
+
+    except ValueError:
+        print("Enter a valid number.")
+    except FileNotFoundError:
+        print("No notes found.")
+
+
+
 
 def main():
     print("Hello! Welcome to note taking app")
@@ -61,7 +95,8 @@ def main():
           1. Add a note
           2. View notes
           3. Delete a note
-          4. Exit
+          4.Edit a note
+          5. Exit
         """)
 
         try:
@@ -77,6 +112,8 @@ def main():
         elif choice == 3:
             delete_note()
         elif choice == 4:
+            edit_note()
+        elif choice == 5:
             print("You have successfully exited the application.")
             break
         else:
