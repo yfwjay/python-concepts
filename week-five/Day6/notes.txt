@@ -1,0 +1,5 @@
+INHERITANCE
+This is a child class inheriting the data and behaviours from another parent class.
+
+Super-class / Parent class =  Main class
+Sub-class -> A class that inherits the data and behaviours of the parent class.
