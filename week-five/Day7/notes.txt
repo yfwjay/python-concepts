@@ -1,0 +1,4 @@
+ENCAPSULATION
+This is the concept of data-hiding by making the data private.
+
+This makes sure that the data is only accessible within the class.
