@@ -1,0 +1,7 @@
+BANKING SYSTEM SIMULATION WITH CONCEPTS IN OOP
+
+Build a simple command-line banking system where users can:
+1.check bank accounts
+2.Check balances
+3.Deposit / withdraw money
+4.Transfer funds
