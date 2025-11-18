@@ -40,7 +40,8 @@ Here’s an overview of what I’ll be covering:
 - Week 2 → Operators and expressions , if-else control structure , for loops , while loop , break and continue statements , ticket booking and checking project and number guessing game project
 - Week 3 → Python functions , Simple BMI calculator app project , Lambda functions and return statements , How to write clean and modular code , Building a To-do list application. 
 - Week 4 → Itroduction to Lists , Dictionaries and Key-value Pairs , Sets and Tuples , Contact book project , Smart Grocery List and Budget Tracker Project.
-- Week 5 →  
+- Week 5 → Reading and writing csv , txt and json files ,error handling(try and except) , Note Taking App , OOP Part1(objects and classes) , OOP Part 2 (Inheritance) , OOP Part 3 (Encapsulation ) OOP Part 4 (Polymorphism) , OOP Project(Banking Simulation Project).
+- Week 6 ->
 
 *(More weeks may be added as I progress.)*
 
