@@ -1,0 +1,40 @@
+OBJECT ORIENTED PROGRAMMING(OOP)
+This is a programming paradigm that uses objects to create programs.
+Each Object has a data and a behaviour(DB)
+
+
+Class 
+-> This is a blue-print for creating objects.
+
+Object
+-> This is an instance of a class.
+
+When designing classes in python by default we have:
+
+1.A default constructor method.
+
+The constructor method has a name __init__ and a parameter self. eg: def __init__(self):
+
+After that you can go ahead and add your paramters.
+Inside the default constructor thats where we define our data.
+
+Then now one can go ahead and create their normal methods the way we usually create functions.
+
+OBJECT
+To create an object we MUST call the class and then store the class in a variable. Now the variable is our object.
+
+To execute the methods we call our object and then add the method. eg class.method
+
+
+KEY-TAKEAWAYS.
+1. Definition of a class and an object.
+2. Classes should always start with a capital letter as the 1st letter.
+3. Classes have a default constructor method with a paramter self.
+4. Inside the constructor method is where we define our data.
+5. When we create a function inside a class we call it a method.
+
+
+SEE PYTHON SCRIPT INSIDE THIS FOLDER TO SEE THE IMPLLIMENTATION
+
+
+

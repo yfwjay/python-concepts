@@ -1,0 +1,19 @@
+MAGIC METHODS / DUNDER METHODS
+This are methods that start and end in double underscores hence the name DUNDER
+
+We have many dunder methods. To see a list of them just run print(dir(init)) it will display a list of all the dunder methods present in python.
+
+In our case we will discuss 2 Dunder methods.
+
+1. __init__
+-> The magic method allows you to define your data here.
+
+2.__string__
+-> This a magic method that allows you to give a description of a class.
+
+The advantage of having dunder methods is that you don't need to call them. 
+Since they are defined inside the class when you call the class when defining an object it automatically executes.
+ALSO
+Dunder methods always have a paramter self inside them.
+
+SEE PYTHON SCRIPT BELOW
