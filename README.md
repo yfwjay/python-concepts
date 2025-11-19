@@ -41,7 +41,7 @@ Here’s an overview of what I’ll be covering:
 - Week 3 → Python functions , Simple BMI calculator app project , Lambda functions and return statements , How to write clean and modular code , Building a To-do list application. 
 - Week 4 → Itroduction to Lists , Dictionaries and Key-value Pairs , Sets and Tuples , Contact book project , Smart Grocery List and Budget Tracker Project.
 - Week 5 → Reading and writing csv , txt and json files ,error handling(try and except) , Note Taking App , OOP Part1(objects and classes) , OOP Part 2 (Inheritance) , OOP Part 3 (Encapsulation ) OOP Part 4 (Polymorphism) , OOP Project(Banking Simulation Project).
-- Week 6 ->
+- Week 6 -> Python file Automation , CLI Agent based framework , Beginner guide on webscrapping , Webscraping part 2 , Automate Daily reports , Introduction to database with SQL in Python
 
 *(More weeks may be added as I progress.)*
 
