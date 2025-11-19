@@ -1,0 +1,4 @@
+This folder Contains the concepts that I've learnt throughout the weeks and I feel they are vital and require CONTINOUS REPETITIONS.
+
+Each folder will have python scripts , or even projects relating to the same.
+

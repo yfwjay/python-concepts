@@ -1,0 +1,6 @@
+Lists Sub-topics
+1. List definition
+2. List methods
+3. List slicing
+4. List Looping
+5. List indexing
