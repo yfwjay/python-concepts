@@ -1,0 +1,4 @@
+LOOPS
+The loops we happen to use in python: 
+1.For loop
+2.While loop
