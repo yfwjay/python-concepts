@@ -1,0 +1,16 @@
+Also for json files we will also do the same.
+Try to manipulate json files using the different modes: read , write and append . THIS ARE THE MOST COMMON MODES
+
+RULES OF THUMB TO KNOW WHICH FILE HANDLING METHOD TO USE
+
+1. Txt files
+
+-> They are just sentences or lines
+
+2. Json files
+
+-> They look like dictionaries or has levels
+
+3. Csv files
+
+-> They can be opened using an excel sheet. Looks like tables(rows and columns)
