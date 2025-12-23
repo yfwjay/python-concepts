@@ -1,0 +1,3 @@
+Will do the same as txt files
+
+Go through the different modes we have and try to manipulate this kind of files
