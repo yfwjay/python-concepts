@@ -1,0 +1,11 @@
+SETS
+
+Sets are a collection of mutable , unordered list of items.
+
+NOTE BETTER
+
+Sets dom't support slicing and indexing
+
+We will only perform definition .
+
+Best when we want to return non-duplicate items
