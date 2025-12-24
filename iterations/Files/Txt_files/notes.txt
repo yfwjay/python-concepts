@@ -1,0 +1,47 @@
+I'll be trying to read , append , edit contents in a txt file
+
+We create a txt file and use modes such as read , append etc
+
+Then write contents inside the file we have created.
+
+
+
+There are certain situations where one would want to specify the path of where you want to create a file
+
+2 ways: importing pathlib or The string way
+
+1.Pathlib
+
+So you specify the directory then the file.
+
+Example: In our case:
+
+STEP 1
+from pathlib from path
+STEP 2 // SPECIFY THE FOLDER
+
+folder = path("C:\Users\Kxbuga\Desktop\python-concepts\iterations\Files")
+
+STEP 3 // SPECIFY THE LOCATION OF THE FILE YOU WANT TO CREATE
+
+file = folder / "name of the txt file"
+
+STEP 4 // ENSURE THAT THE FOLDER (OPTIONAL BUT SAFE)
+
+folder.mkdir(parents = "TRUE" , exist_ok = True)
+
+STEP 5 // NOW USE THE OPEN METHOD
+
+with open("file_path" , "w") as file:
+    CONTINUE AS WE NORMALLY DO
+
+
+2.The string way
+
+This method is where we prefix the path with r
+
+path = r"C:\Users\Kxbuga\Desktop\python-concepts\iterations\Files\details.txt"
+
+with open("path" , "w") as file:
+    CONTINUE AS WE NORMALLY DO
+
